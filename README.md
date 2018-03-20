@@ -67,7 +67,7 @@ Aplicação desenvolvida afim de gerenciar e facilitar vendas na gráfica SB, do
 ## Contribuidores
 
   - [@viniciussoaresti](https://github.com/viniciussoaresti) como Vinícius Henrique
-  - [@MatheusDias18](https://github.com/viniciussoaresti) como Matheus Dionísio
+  - [@MatheusDias18](https://github.com/MatheusDias18) como Matheus Dionísio
 
 ## Licença
 
