@@ -1,5 +1,5 @@
 # Gráfica SB
-Prática Profissional Orientada (PPO) em desenvolvimento por Pedro Barros, Matheus Dionísio e Vinícius Henrique.
+Prática Profissional Orientada (PPO) em desenvolvimento por Pedro Barros, Matheus Dionísio e Vinícius Soares.
 Aplicação desenvolvida afim de gerenciar e facilitar vendas na gráfica SB, do município de Iati-PE.
 
 ## Como contribuir?
@@ -66,8 +66,9 @@ Aplicação desenvolvida afim de gerenciar e facilitar vendas na gráfica SB, do
 
 ## Contribuidores
 
-  - [@viniciussoaresti](https://github.com/viniciussoaresti) como Vinícius Henrique
+  - [@viniciussoaresti](https://github.com/viniciussoaresti) como Vinícius Soares
   - [@MatheusDias18](https://github.com/MatheusDias18) como Matheus Dionísio
+  - [@BarrosPedro](https://github.com/BarrosPedro) como Pedro Barros
 
 ## Licença
 
