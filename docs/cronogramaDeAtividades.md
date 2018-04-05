@@ -11,23 +11,23 @@
 </tr>
 <tr>
 <td colspan="4">T1</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4" >Crud Cliente</td>
+<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Cliente.</td>
 </tr>
 <tr>
 <td colspan="4">T2</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4" >Crud Produto</td>
+<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Produto.</td>
 </tr>
 <tr>
-<td colspan="4">T3</td>
+<td colspan="4">Crud Funcionário</td>
 <td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Funcionário.</td>
 </tr>
 <tr>
-<td colspan="4">T4</td>
+<td colspan="4">Crud Venda</td>
 <td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Cliente.</td>
 </tr>
 <tr>
 <td colspan="4">T5</td>
