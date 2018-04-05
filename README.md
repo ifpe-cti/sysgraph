@@ -31,6 +31,7 @@ O sistema será desenvolvido em java (JDK 1.8) e html, com adicional uso das bib
   - [@viniciussoaresti](https://github.com/viniciussoaresti) como Vinícius Soares
   - [@MatheusDias18](https://github.com/MatheusDias18) como Matheus Dionísio
   - [@BarrosPedro](https://github.com/BarrosPedro) como Pedro Barros
+  - [@tiagoesng](https://github.com/tiagoesng) como Tiago Eduardo (Orientador)
 
 ## Licença
 
