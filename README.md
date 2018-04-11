@@ -7,7 +7,7 @@ Aplicação desenvolvida afim de gerenciar e facilitar vendas na gráfica SB, do
 ## Soluções existentes
 
 https://gohiper.com.br/ A aplicação é paga.
-https://www.programanex.com.br/ A Desenvolvedora não se compromete a manter ativa qualquer ferramenta, funcionalidade ou serviço que já tenha sido oferecido no passado, independentemente de ter sido oferecido de forma onerosa ou gratuita. Alm disso, há serviços de assinatura para funcionalidades específicas.
+https://www.programanex.com.br/ A Desenvolvedora não se compromete a manter ativa qualquer ferramenta, funcionalidade ou serviço que já tenha sido oferecido no passado, independentemente de ter sido oferecido de forma onerosa ou gratuita. Além disso, há serviços de assinatura para funcionalidades específicas.
 https://www.tagsoft.com.br/ A aplicação é paga.
 
 Além disso, necessidades específicas como anexar arquivos do corel draw nas vendas não são suportadas por estes sistemas.
