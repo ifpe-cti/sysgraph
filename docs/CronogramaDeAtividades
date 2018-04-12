@@ -6,8 +6,8 @@
 </tr>
 <tr>
 <td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Cód</b.</td>
+<td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Atividades</b></td>
 <td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Descrição</b></td>
-<td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Artefato</b></td>
 </tr>
 <tr>
 <td colspan="4">T1</td>
@@ -43,15 +43,15 @@
 <td colspan="5"><center><b>Semana 3</b></center></td>
 <td colspan="4"><center><b>Semana 4</b></center></td>
 <td colspan="5"><center><b>Semana 5</b></center></td>
-<td colspan="5"><center><b>Semana 6</b></center></td>
+<td colspan="4"><center><b>Semana 6</b></center></td>
 <td colspan="5"><center><b>Semana 7</b></center></td>
-<td colspan="5"><center><b>Semana 8</b></center></td>
+<td colspan="4"><center><b>Semana 8</b></center></td>
 <td colspan="5"><center><b>Semana 9</b></center></td>
-<td colspan="5"><center><b>Semana 10</b></center></td>
+<td colspan="4"><center><b>Semana 10</b></center></td>
 <td colspan="5"><center><b>Semana 11</b></center></td>
-<td colspan="5"><center><b>Semana 12</b></center></td>
+<td colspan="4"><center><b>Semana 12</b></center></td>
 <td colspan="5"><center><b>Semana 13</b></center></td>
-<td colspan="5"><center><b>Semana 14</b></center></td>
+<td colspan="4"><center><b>Semana 14</b></center></td>
 <td colspan="5"><center><b>Semana 15</b></center></td>
 
   </tr>
@@ -153,6 +153,7 @@
 <td colspan="1">T7</td>
 
 </tr>
+
 <td colspan="6">Pedro</td>
 <td colspan="1">T8</td>
 <td colspan="1">T8</td>
@@ -175,5 +176,5 @@
 <td colspan="1">T9</td>
 <td colspan="1">T9</td>
 <td colspan="1">T9</td>
-</tr>
+
 </table>
