@@ -59,8 +59,7 @@
 <td colspan="4" >Emissão de Relatórios Financeiros</td>
 <td colspan="4">Emissão de relatórios financeiros anuais, mensais e semanais</td>
 </tr>
-
-  <td colspan="4">T11</td>
+<td colspan="4">T11</td>
 <td colspan="4" >Backup</td>
 <td colspan="4">Funcionalidade de Backup do Banco de Dados.</td>
 </tr>
@@ -199,5 +198,76 @@
 <td colspan="1">T9</td>
 <td colspan="1">T9</td>
 
+</tr>
+<td colspan="6">Vínicius</td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+
+</tr>
+<td colspan="6">Matheus</td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+
+</tr>
+<td colspan="6">Pedro</td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
 </tr>
 </table>
