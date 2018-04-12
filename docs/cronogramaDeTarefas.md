@@ -104,27 +104,99 @@
  </tr>
 <tr>
 <td colspan="6">Todos</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
+<td colspan="1">T1</td>
+<td colspan="1">T1</td>
+<td colspan="1">T1</td>
+<td colspan="1">T1</td>
+<td colspan="1">T1</td>
+<td colspan="1">T1</td>
+<td colspan="1">T2</td>
+<td colspan="1">T2</td>
+<td colspan="1">T2</td>
+<td colspan="1">T2</td>
+<td colspan="1">T2</td>
+<td colspan="1">T2</td>
+<td colspan="1">T2</td>
+<td colspan="1">T3</td>
+<td colspan="1">T3</td>
+<td colspan="1">T3</td>
+<td colspan="1">T3</td>
+<td colspan="1">T3</td>
+<td colspan="1">T3</td>
+<td colspan="1">T3</td>
+<td colspan="1">T3</td>
+
+</tr>
+<td colspan="6">Vínicius</td>
+<td colspan="1">T4</td>
+<td colspan="1">T4</td>
+<td colspan="1">T4</td>
+<td colspan="1">T4</td>
+<td colspan="1">T4</td>
+<td colspan="1">T4</td>
+<td colspan="1">T4</td>
+<td colspan="1">T4</td>
+<td colspan="1">T4</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+
+</tr>
+<td colspan="6">Matheus</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+
+</tr>
+<td colspan="6">Pedro</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
 
 </tr>
 <td colspan="6">Vínicius</td>
@@ -197,6 +269,5 @@
 <td colspan="1"></td>
 <td colspan="1"></td>
 <td colspan="1"></td>
-
 </tr>
 </table>
