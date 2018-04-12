@@ -11,53 +11,58 @@
 </tr>
 <tr>
 <td colspan="4">T1</td>
-<td colspan="4" >Crud Cliente</td>
-<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Cliente.</td>
-</tr>
-<tr>
-<td colspan="4">T2</td>
-<td colspan="4" >Crud Produto</td>
+<td colspan="4" >Manter Produto</td>
 <td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Produto.</td>
 </tr>
 <tr>
-<td colspan="4">Crud Funcionário</td>
-<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">T2</td>
+<td colspan="4" >Manter Estoque</td>
+<td colspan="4">Funcionalidades de Consulta, Remoção e Adição de Produtos no Estoque.</td>
+</tr>
+<tr>
+<td colspan="4">T3</td>
+<td colspan="4" >Manter Funcionário</td>
 <td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Funcionário.</td>
 </tr>
 <tr>
-<td colspan="4">Crud Venda</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Cliente.</td>
+<td colspan="4">T4</td>
+<td colspan="4" >Manter Vendas</td>
+<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar as vendas.</td>
 </tr>
 <tr>
 <td colspan="4">T5</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4" >Manter Clientes</td>
+<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Cliente.</td>
 </tr>
 <tr>
 <td colspan="4">T6</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4" >Logoff Automático</td>
+<td colspan="4">Logoff automático na atulização de Páginas WEB</td>
 </tr>
 <tr>
 <td colspan="4">T7</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4" >Banco de Dados</td>
+<td colspan="4">Uso de Banco de Dados MySql</td>
 </tr>
 <tr>
 <td colspan="4">T8</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4" >Log</td>
+<td colspan="4">Log do Sistema Registrando todas as ações, e o usuário que as realizou, além do carimbo de data e hora.</td>
 </tr>
 <tr>
 <td colspan="4">T9</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4" >Emissão de Nota Fiscal Eletrônica</td>
+<td colspan="4">Emissão de Nota Fiscal Eletrônica no ato da Venda.</td>
 </tr>
 <tr>
 <td colspan="4">T10</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4" >Emissão de Relatórios Financeiros</td>
+<td colspan="4">Emissão de relatórios financeiros anuais, mensais e semanais</td>
+</tr>
+</table>
+  <td colspan="4">T11</td>
+<td colspan="4" >Backup</td>
+<td colspan="4">Funcionalidade de Backup do Banco de Dados.</td>
 </tr>
 </table>
 
