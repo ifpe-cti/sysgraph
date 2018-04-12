@@ -11,8 +11,8 @@
 </tr>
 <tr>
 <td colspan="4">T1</td>
-<td colspan="4" >Realização da entrevista</td>
-<td colspan="4">Questionário Respondido</td>
+<td colspan="4" >Analisar ferramenta de testes</td>
+<td colspan="4">Ver a ferramenta que mais vai se adaptar aos interesses do cliente</td>
 </tr>
 <tr>
 <td colspan="4">T2</td>
