@@ -67,8 +67,8 @@
   </tr>
 <tr>
    <td colspan="6"></td>
- <td colspan="4" ><center><b>Abril</b></center></td>
-<td colspan="4"><center><b>Maio</b></center></td>
+ <td colspan="4" ><center><b>Semana 1</b></center></td>
+<td colspan="4"><center><b>Semana 2</b></center></td>
 <td colspan="5"><center><b>Junho</b></center></td>
 <td colspan="4"><center><b>Julho</b></center></td>
 <td colspan="5"><center><b>Agosto</b></center></td>
