@@ -59,8 +59,7 @@
 <td colspan="4" >Emissão de Relatórios Financeiros</td>
 <td colspan="4">Emissão de relatórios financeiros anuais, mensais e semanais</td>
 </tr>
-</table>
-  <td colspan="4">T11</td>
+<td colspan="4">T11</td>
 <td colspan="4" >Backup</td>
 <td colspan="4">Funcionalidade de Backup do Banco de Dados.</td>
 </tr>
