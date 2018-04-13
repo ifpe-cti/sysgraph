@@ -75,27 +75,27 @@
   </tr>
 <tr>
  <td colspan="6"><b>Responsável</b></td>
- <td >Semana 1</td>
- <td >Semana 2</td>
- <td >Semana 3</td>
- <td >Semana 4</td>
-<td >Semana 5</td>
- <td >Semana 6</td>
- <td >Semana 7</td>
- <td >Semana 8</td>
-<td >Semana 9</td>
- <td >Semana 10</td>
- <td >Semana 11</td>
- <td >Semana 12</td>
- <td >Semana 13</td>
-<td >Semana 14</td>
- <td >Semana 15</td>
- <td >Semana 16</td>
- <td >Semana 17</td>
-<td >Semana 18</td>
- <td >Semana 19</td>
- <td >Semana 20</td>
- <td >Semana 21</td>
+ <td>Sprint 1</td>
+ <td>Sprint 2</td>
+ <td>Sprint 3</td>
+ <td>Sprint 4</td>
+ <td>Sprint 5</td>
+ <td>Sprint 6</td>
+ <td>Sprint 7</td>
+ <td>Sprint 8</td>
+ <td>Sprint 9</td>
+ <td>Sprint 10</td>
+ <td>Sprint 11</td>
+ <td>Sprint 12</td>
+ <td>Sprint 13</td>
+ <td>Sprint 14</td>
+ <td>Sprint 15</td>
+ <td>Sprint 16</td>
+ <td>Sprint 17</td>
+ <td>Sprint 18</td>
+ <td>Sprint 19</td>
+ <td>Sprint 20</td>
+ <td>Sprint 21</td>
  
  </tr>
 <tr>
