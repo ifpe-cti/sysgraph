@@ -79,7 +79,7 @@
  <td >Semana 2</td>
  <td >Semana 3</td>
  <td >Semana 4</td>
-<td >Semana 5/td>
+<td >Semana 5</td>
  <td >Semana 6</td>
  <td >Semana 7</td>
  <td >Semana 8</td>
