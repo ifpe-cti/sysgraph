@@ -100,8 +100,6 @@
 <td >03/ago</td>
  <td >10/ago</td>
  <td >17/ago</td>
- <td >24/ago</td>
- <td >31/ago</td>
  </tr>
 <tr>
 <td colspan="6">Todos</td>
@@ -124,8 +122,6 @@
 <td colspan="1">T9</td>
 <td colspan="1">T9</td>
 <td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
 
 </tr>
 <td colspan="6">Vínicius</td>
@@ -139,17 +135,15 @@
 <td colspan="1">T10</td>
 <td colspan="1">T10</td>
 <td colspan="1">x</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
 
 </tr>
 <td colspan="6">Matheus</td>
@@ -163,17 +157,15 @@
 <td colspan="1">T6</td>
 <td colspan="1">T6</td>
 <td colspan="1">x</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
 
 </tr>
 <td colspan="6">Pedro</td>
@@ -187,16 +179,12 @@
 <td colspan="1">T11</td>
 <td colspan="1">T11</td>
 <td colspan="1">x</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
 </tr>
 </table>
