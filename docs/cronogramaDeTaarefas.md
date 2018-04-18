@@ -2,11 +2,11 @@
 
 <table>
 <tr>
-<td colspan="30" bgcolor="#DCDCDC" align="center"><b>Descrição de Atividades</b></td>
+<td colspan="30" bgcolor="#DCDCDC" align="center"><b>Descrição de Tarefas</b></td>
 </tr>
 <tr>
 <td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Cód</b.</td>
-<td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Atividade</b></td>
+<td colspan="4"  bgcolor="#DCDCDC" align="center"><b>tarefa</b></td>
 <td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Descrição</b></td>
 </tr>
 <tr>
