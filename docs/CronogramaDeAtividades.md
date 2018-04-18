@@ -63,16 +63,16 @@
 
 <table>
 <tr>
-  <td colspan="30" bgcolor="#DCDCDC" align="center"><b>CRONOGRAMA</td>
-  </tr>
+<td colspan="30" bgcolor="#DCDCDC" align="center"><b>CRONOGRAMA</td>
+</tr>
 <tr>
-   <td colspan="6"></td>
- <td colspan="4" ><center><b>Abril</b></center></td>
+<td colspan="6"></td>
+<td colspan="4" ><center><b>Abril</b></center></td>
 <td colspan="4"><center><b>Maio</b></center></td>
 <td colspan="5"><center><b>Junho</b></center></td>
 <td colspan="4"><center><b>Julho</b></center></td>
 <td colspan="5"><center><b>Agosto</b></center></td>
-  </tr>
+</tr>
 <tr>
  <td colspan="6"><b>Responsável</b></td>
  <td>Sprint 1</td>
@@ -93,11 +93,9 @@
  <td>Sprint 16</td>
  <td>Sprint 17</td>
  <td>Sprint 18</td>
- <td>Sprint 19</td>
- <td>Sprint 20</td>
- <td>Sprint 21</td>
- 
+ <td>Sprint 19</td> 
  </tr>
+  
 <tr>
 <td colspan="6">Todos</td>
 <td colspan="1"></td>
@@ -120,9 +118,8 @@
 <td colspan="1"></td>
 <td colspan="1"></td>
 <td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
 </tr>
+
 <tr>
 <td colspan="6">Matheus</td>
 <td colspan="1"></td>
@@ -145,9 +142,8 @@
 <td colspan="1"></td>
 <td colspan="1"></td>
 <td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
 </tr>
+
 <tr>
 <td colspan="6">Vinicius</td>
 <td colspan="1"></td>
@@ -170,9 +166,8 @@
 <td colspan="1"></td>
 <td colspan="1"></td>
 <td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
 </tr>
+
 <tr>
 <td colspan="6">Pedro</td>
 <td colspan="1"></td>
@@ -195,9 +190,5 @@
 <td colspan="1"></td>
 <td colspan="1"></td>
 <td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-
 </tr>
-
 </table>
