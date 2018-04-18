@@ -37,7 +37,7 @@
 <tr>
 <td colspan="4">T6</td>
 <td colspan="4" >Login</td>
-<td colspan="4">Login com menus diferenciados e logoff automático</td>
+<td colspan="4">Login com logoff automático</td>
 </tr>
 <tr>
 <td colspan="4">T7</td>
