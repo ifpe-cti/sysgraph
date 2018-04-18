@@ -93,7 +93,7 @@
  <td>Sprint 16</td>
  <td>Sprint 17</td>
  <td>Sprint 18</td>
- <td>Sprint 19</td> 
+ <td colspan="1">Sprint 19</td> 
  </tr>
   
 <tr>
