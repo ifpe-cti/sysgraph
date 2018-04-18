@@ -114,18 +114,18 @@
 <td colspan="1">x</td>
 <td colspan="1">x</td>
 <td colspan="1">x</td>
-<td colspan="1">x</td>
 <td colspan="1">T8</td>
-<td colspan="1">x</td>
-<td colspan="1">x</td>
-<td colspan="1">x</td>
-<td colspan="1">x</td>
-<td colspan="1">x</td>
-<td colspan="1">x</td>
-<td colspan="1">x</td>
-<td colspan="1">x</td>
-<td colspan="1">x</td>
-<td colspan="1">x</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T8</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
+<td colspan="1">T9</td>
 
 </tr>
 <td colspan="6">Vínicius</td>
