@@ -181,10 +181,10 @@
 <td colspan="1">T3</td>
 <td colspan="1">T3</td>
 <td colspan="1">T3</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">T7</td>
+<td colspan="1">x</td>
 <td colspan="1">T8</td>
 <td colspan="1">T8</td>
 <td colspan="1">T9</td>
