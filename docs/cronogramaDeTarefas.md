@@ -6,7 +6,7 @@
 </tr>
 <tr>
 <td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Cód</b.</td>
-<td colspan="4"  bgcolor="#DCDCDC" align="center"><b>tarefa</b></td>
+<td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Tarefa</b></td>
 <td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Descrição</b></td>
 </tr>
 <tr>
