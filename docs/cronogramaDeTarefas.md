@@ -160,9 +160,9 @@
 <td colspan="1">T2</td>
 <td colspan="1">T2</td>
 <td colspan="1">T2</td>
+<td colspan="1">T6</td>
+<td colspan="1">T6</td>
 <td colspan="1">x</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
 <td colspan="1">T7</td>
 <td colspan="1">T7</td>
 <td colspan="1">T7</td>
@@ -184,9 +184,9 @@
 <td colspan="1">T7</td>
 <td colspan="1">T7</td>
 <td colspan="1">T7</td>
+<td colspan="1">T11</td>
+<td colspan="1">T11</td>
 <td colspan="1">x</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
 <td colspan="1">T9</td>
 <td colspan="1">T9</td>
 <td colspan="1">T9</td>
