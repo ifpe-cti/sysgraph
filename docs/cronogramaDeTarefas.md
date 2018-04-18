@@ -186,5 +186,7 @@
 <td colspan="1">x</td>
 <td colspan="1">x</td>
 <td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
 </tr>
 </table>
