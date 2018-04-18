@@ -17,7 +17,7 @@
 <tr>
 <td colspan="4">T2</td>
 <td colspan="4" >Manter Estoque</td>
-<td colspan="4">Funcionalidades de Consulta, Remoção e Adição de Produtos no Estoque.</td>
+<td colspan="4">Funcionalidades de consulta, remoção e adição de Produtos no Estoque.</td>
 </tr>
 <tr>
 <td colspan="4">T3</td>
@@ -27,7 +27,7 @@
 <tr>
 <td colspan="4">T4</td>
 <td colspan="4" >Manter Vendas</td>
-<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar as vendas.</td>
+<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar as Vendas.</td>
 </tr>
 <tr>
 <td colspan="4">T5</td>
@@ -37,17 +37,17 @@
 <tr>
 <td colspan="4">T6</td>
 <td colspan="4" >Logoff Automático</td>
-<td colspan="4">Logoff automático na atulização de Páginas WEB</td>
+<td colspan="4">Logoff automático na atulização de páginas WEB</td>
 </tr>
 <tr>
 <td colspan="4">T7</td>
 <td colspan="4" >Banco de Dados</td>
-<td colspan="4">Uso de Banco de Dados MySql</td>
+<td colspan="4">Uso de banco de dados MySql</td>
 </tr>
 <tr>
 <td colspan="4">T8</td>
 <td colspan="4" >Log</td>
-<td colspan="4">Log do Sistema Registrando todas as ações, e o usuário que as realizou, além do carimbo de data e hora.</td>
+<td colspan="4">Log do Sistema registrando todas as ações, e o usuário que as realizou, além do carimbo de data e hora.</td>
 </tr>
 <tr>
 <td colspan="4">T9</td>
@@ -61,7 +61,7 @@
 </tr>
 <td colspan="4">T11</td>
 <td colspan="4" >Backup</td>
-<td colspan="4">Funcionalidade de Backup do Banco de Dados.</td>
+<td colspan="4">Funcionalidade de Backup do banco de dados.</td>
 </tr>
 </table>
 
