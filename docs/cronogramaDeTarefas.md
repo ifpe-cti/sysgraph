@@ -36,32 +36,33 @@
 </tr>
 <tr>
 <td colspan="4">T6</td>
-<td colspan="4" >Logoff Automático</td>
-<td colspan="4">Logoff automático na atulização de páginas WEB</td>
+<td colspan="4" >Login</td>
+<td colspan="4">Login com menus diferenciados e logoff automático</td>
 </tr>
 <tr>
 <td colspan="4">T7</td>
-<td colspan="4" >Banco de Dados</td>
-<td colspan="4">Uso de banco de dados MySql</td>
-</tr>
-<tr>
-<td colspan="4">T8</td>
 <td colspan="4" >Log</td>
 <td colspan="4">Log do Sistema registrando todas as ações, e o usuário que as realizou, além do carimbo de data e hora.</td>
 </tr>
 <tr>
-<td colspan="4">T9</td>
+<td colspan="4">T8</td>
 <td colspan="4" >Emissão de Nota Fiscal Eletrônica</td>
 <td colspan="4">Emissão de Nota Fiscal Eletrônica no ato da Venda.</td>
 </tr>
 <tr>
-<td colspan="4">T10</td>
+<td colspan="4">T9</td>
 <td colspan="4" >Emissão de Relatórios Financeiros</td>
 <td colspan="4">Emissão de relatórios financeiros anuais, mensais e semanais</td>
 </tr>
-<td colspan="4">T11</td>
+<tr>
+<td colspan="4">T10</td>
 <td colspan="4" >Backup</td>
 <td colspan="4">Funcionalidade de Backup do banco de dados.</td>
+</tr>
+  <tr>
+<td colspan="4">T11</td>
+<td colspan="4" >Páginas WEB</td>
+<td colspan="4">Menus diferenciados para cada usuário, página de login.</td>
 </tr>
 </table>
 
@@ -104,39 +105,39 @@
  </tr>
 <tr>
 <td colspan="6">Todos</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
 
 </tr>
 <td colspan="6">Vínicius</td>
+<td colspan="1">x</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
+<td colspan="1">T5</td>
 <td colspan="1">T4</td>
 <td colspan="1">T4</td>
 <td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
+<td colspan="1">x</td>
+<td colspan="1">x</td>
 <td colspan="1">T5</td>
 <td colspan="1">T5</td>
 <td colspan="1">T5</td>
@@ -152,14 +153,14 @@
 
 </tr>
 <td colspan="6">Matheus</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
+<td colspan="1">x</td>
+<td colspan="1">T1</td>
+<td colspan="1">T1</td>
+<td colspan="1">T1</td>
+<td colspan="1">T2</td>
+<td colspan="1">T2</td>
+<td colspan="1">T2</td>
+<td colspan="1">x</td>
 <td colspan="1">T6</td>
 <td colspan="1">T6</td>
 <td colspan="1">T7</td>
@@ -176,10 +177,10 @@
 
 </tr>
 <td colspan="6">Pedro</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
+<td colspan="1">x</td>
+<td colspan="1">T3</td>
+<td colspan="1">T3</td>
+<td colspan="1">T3</td>
 <td colspan="1">T8</td>
 <td colspan="1">T8</td>
 <td colspan="1">T8</td>
