@@ -6,251 +6,182 @@
 </tr>
 <tr>
 <td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Cód</b.</td>
+<td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Tarefa</b></td>
 <td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Descrição</b></td>
-<td colspan="4"  bgcolor="#DCDCDC" align="center"><b>Artefato</b></td>
 </tr>
 <tr>
 <td colspan="4">T1</td>
-<td colspan="4" >Manter Produto</td>
-<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Produto.</td>
+<td colspan="4" >Classe Produto</td>
+<td colspan="4">Criar todos os atributos e metodos da classe, lembrar da documentação para o BD </td>
 </tr>
 <tr>
 <td colspan="4">T2</td>
-<td colspan="4" >Manter Estoque</td>
-<td colspan="4">Funcionalidades de Consulta, Remoção e Adição de Produtos no Estoque.</td>
+<td colspan="4" >Consultar Produto</td>
+<td colspan="4">criar a pesquisa e etc</td>
 </tr>
 <tr>
 <td colspan="4">T3</td>
-<td colspan="4" >Manter Funcionário</td>
-<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Funcionário.</td>
+<td colspan="4" >Atualizar produto</td>
+<td colspan="4">Lembrar da relação de consultar para alterar</td>
 </tr>
 <tr>
 <td colspan="4">T4</td>
-<td colspan="4" >Manter Vendas</td>
-<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar as vendas.</td>
+<td colspan="4" >Deletar Produto</td>
+<td colspan="4">Também tem relação com o consultar</td>
 </tr>
 <tr>
 <td colspan="4">T5</td>
-<td colspan="4" >Manter Clientes</td>
-<td colspan="4">Funcionalidades de criar, consultar, atualizar e deletar o Cliente.</td>
+<td colspan="4" >Classe Cliente</td>
+<td colspan="4">Criar todos os atributos e metodos da classe, lembrar da documentação para o BD</td>
 </tr>
 <tr>
 <td colspan="4">T6</td>
-<td colspan="4" >Logoff Automático</td>
-<td colspan="4">Logoff automático na atulização de Páginas WEB</td>
+<td colspan="4" >Consultar CLiente</td>
+<td colspan="4">Criar a pesquisa e etc</td>
 </tr>
 <tr>
 <td colspan="4">T7</td>
-<td colspan="4" >Banco de Dados</td>
-<td colspan="4">Uso de Banco de Dados MySql</td>
+<td colspan="4" >Atualizar Cliente</td>
+<td colspan="4">Lembrar da relação com a consulta do mesmo</td>
 </tr>
 <tr>
 <td colspan="4">T8</td>
-<td colspan="4" >Log</td>
-<td colspan="4">Log do Sistema Registrando todas as ações, e o usuário que as realizou, além do carimbo de data e hora.</td>
+<td colspan="4" >Deletar cliente</td>
+<td colspan="4">Também tem relação com a consulta</td>
 </tr>
 <tr>
 <td colspan="4">T9</td>
-<td colspan="4" >Emissão de Nota Fiscal Eletrônica</td>
-<td colspan="4">Emissão de Nota Fiscal Eletrônica no ato da Venda.</td>
+<td colspan="4" >Classe Funcionário</td>
+<td colspan="4">Criar todos os atributos e metodos da classe, lembrar da documentação para o BD</td>
 </tr>
 <tr>
 <td colspan="4">T10</td>
-<td colspan="4" >Emissão de Relatórios Financeiros</td>
-<td colspan="4">Emissão de relatórios financeiros anuais, mensais e semanais</td>
+<td colspan="4" >Consultar Funcionário</td>
+<td colspan="4">Criar a pesquisa e etc</td>
 </tr>
+ <tr>
 <td colspan="4">T11</td>
-<td colspan="4" >Backup</td>
-<td colspan="4">Funcionalidade de Backup do Banco de Dados.</td>
+<td colspan="4" >Atualizar Funcionário</td>
+<td colspan="4">Lembrar da relação com a consulta</td>
+</tr>
+ <tr>
+<td colspan="4">T12</td>
+<td colspan="4" >Deletar Funcionário</td>
+<td colspan="4">Também tem relação com a consulta</td>
 </tr>
 </table>
 
 <table>
 <tr>
-  <td colspan="30" bgcolor="#DCDCDC" align="center"><b>CRONOGRAMA</td>
-  </tr>
+<td colspan="30" bgcolor="#DCDCDC" align="center"><b>CRONOGRAMA</td>
+</tr>
 <tr>
-   <td colspan="6"></td>
- <td colspan="3" ><center><b>Abril</b></center></td>
+<td colspan="6"></td>
+<td colspan="4" ><center><b>Abril</b></center></td>
 <td colspan="4"><center><b>Maio</b></center></td>
 <td colspan="5"><center><b>Junho</b></center></td>
 <td colspan="4"><center><b>Julho</b></center></td>
 <td colspan="5"><center><b>Agosto</b></center></td>
-  </tr>
+</tr>
 <tr>
  <td colspan="6"><b>Responsável</b></td>
- 
- <td >13/abr</td>
- <td >20/abr</td>
- <td >27/abr</td>
-<td >04/maio</td>
- <td >11/maio</td>
- <td >18/maio</td>
- <td >25/maio</td>
-<td >01/jun</td>
- <td >08/jun</td>
- <td >15/jun</td>
- <td >22/jun</td>
- <td >29/jun</td>
-<td >06/jul</td>
- <td >13/jul</td>
- <td >20/jul</td>
- <td >27/jul</td>
-<td >03/ago</td>
- <td >10/ago</td>
- <td >17/ago</td>
- <td >24/ago</td>
- <td >31/ago</td>
+ <td>Sprint 1</td>
+ <td>Sprint 2</td>
+ <td>Sprint 3</td>
+ <td>Sprint 4</td>
+ <td>Sprint 5</td>
+ <td>Sprint 6</td>
+ <td>Sprint 7</td>
+ <td>Sprint 8</td>
+ <td>Sprint 9</td>
+ <td>Sprint 10</td>
+ <td>Sprint 11</td>
+ <td>Sprint 12</td>
+ <td>Sprint 13</td>
+ <td>Sprint 14</td>
+ <td>Sprint 15</td>
+ <td>Sprint 16</td>
+ <td>Sprint 17</td>
+ <td>Sprint 18</td>
+ <td colspan="1">Sprint 19</td> 
  </tr>
+  
 <tr>
 <td colspan="6">Todos</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T1</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T2</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-<td colspan="1">T3</td>
-
+<td colspan="1"> X </td>
+<td colspan="1"> X </td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
 </tr>
-<td colspan="6">Vínicius</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T4</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
-<td colspan="1">T5</td>
 
-</tr>
+<tr>
 <td colspan="6">Matheus</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T6</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-<td colspan="1">T7</td>
-
+<td colspan="1">T1 e T2</td>
+<td colspan="1">T3 e T4</td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
 </tr>
+
+<tr>
+<td colspan="6">Vinicius</td>
+<td colspan="1">T5 e T6</td>
+<td colspan="1">T7 e T8</td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+<td colspan="1"></td>
+</tr>
+
+<tr>
 <td colspan="6">Pedro</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T8</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-<td colspan="1">T9</td>
-
-</tr>
-<td colspan="6">Vínicius</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-
-</tr>
-<td colspan="6">Matheus</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-
-</tr>
-<td colspan="6">Pedro</td>
-<td colspan="1"></td>
-<td colspan="1"></td>
-<td colspan="1"></td>
+<td colspan="1">T9 e T10</td>
+<td colspan="1">T11 e T12</td>
 <td colspan="1"></td>
 <td colspan="1"></td>
 <td colspan="1"></td>
@@ -270,4 +201,4 @@
 <td colspan="1"></td>
 <td colspan="1"></td>
 </tr>
-</table>
+</table
