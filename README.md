@@ -6,9 +6,9 @@ Aplicação desenvolvida afim de gerenciar e facilitar vendas na gráfica SB, do
 
 ## Soluções existentes
 
-https://gohiper.com.br/ A aplicação é paga.
-https://www.programanex.com.br/ A Desenvolvedora não se compromete a manter ativa qualquer ferramenta, funcionalidade ou serviço que já tenha sido oferecido no passado, independentemente de ter sido oferecido de forma onerosa ou gratuita. Além disso, há serviços de assinatura para funcionalidades específicas.
-https://www.tagsoft.com.br/ A aplicação é paga.
+[GoHiper](https://gohiper.com.br/) - aplicação é paga.
+[ProgramaNex](https://www.programanex.com.br/)- a desenvolvedora não se compromete a manter ativa qualquer ferramenta, funcionalidade ou serviço que já tenha sido oferecido no passado, independentemente de ter sido oferecido de forma onerosa ou gratuita. Além disso, há serviços de assinatura para funcionalidades específicas.
+[TagSoft](https://www.tagsoft.com.br/)- aplicação é paga.
 
 Além disso, necessidades específicas como anexar arquivos do corel draw nas vendas não são suportadas por estes sistemas.
 
@@ -24,7 +24,7 @@ Este aplicativo direciona-se aos funcionários da empresa SB Gráfica, com o ace
 A manutenção, tanto de correção de erros como desenvolvimento de novas funcionalidades, pode ser monetizada. A aplicação gera ganho de tempo e de planejamento da empresa, acarretando em ganho financeiro devido a melhor gestão, em longo prazo. 
 
 ## Ferramental utilizado
-O sistema será desenvolvido em java (JDK 1.8) e html, com adicional uso das bibliotecas: JSF 2.2, PrimeFaces 5.0, EclipseLink (JPA 2.1), do Apache TomCat como Container de Servlets Java e do framework Hibernate para conexão com o banco de dados MySql. Seu código será armazenado no GitLab. O Maven será utilizado como ferramenta de construção da aplicação, o TravisCI e o Selenium IDE para suporte aos testes e integração contínua.
+O sistema será desenvolvido em java (JDK 1.8) e html, com adicional uso das bibliotecas: JSF 2.2, PrimeFaces 5.0, EclipseLink (JPA 2.1), do Apache TomCat como Container de Servlets Java e do framework Hibernate para conexão com o banco de dados MySql. Seu código será armazenado no GitLab. O Maven será utilizado como ferramenta de construção da aplicação, o JUnit, o TravisCI e o Selenium IDE para suporte aos testes e integração contínua.
 
 ## Contribuidores
 
@@ -36,7 +36,7 @@ O sistema será desenvolvido em java (JDK 1.8) e html, com adicional uso das bib
 ## Licença
 MIT License
 
-Copyright (c) 2018 Vinícius H., Matheus Dionísio, Pedro Barros.
+Copyright (c) 2018 - SysGraph - Vinícius H., Matheus Dionísio, Pedro Barros e Tiago Eduardo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

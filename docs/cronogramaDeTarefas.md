@@ -68,6 +68,53 @@
 <td colspan="4">T12</td>
 <td colspan="4" >Deletar Funcionário</td>
 <td colspan="4">Também tem relação com a consulta</td>
+<td colspan="4" >Analisar ferramenta de testes</td>
+<td colspan="4">Ver a ferramenta que mais vai se adaptar aos interesses do cliente</td>
+</tr>
+<tr>
+<td colspan="4">T2</td>
+<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">Questionário Respondido</td>
+</tr>
+<tr>
+<td colspan="4">T3</td>
+<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">Questionário Respondido</td>
+</tr>
+<tr>
+<td colspan="4">T4</td>
+<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">Questionário Respondido</td>
+</tr>
+<tr>
+<td colspan="4">T5</td>
+<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">Questionário Respondido</td>
+</tr>
+<tr>
+<td colspan="4">T6</td>
+<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">Questionário Respondido</td>
+</tr>
+<tr>
+<td colspan="4">T7</td>
+<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">Questionário Respondido</td>
+</tr>
+<tr>
+<td colspan="4">T8</td>
+<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">Questionário Respondido</td>
+</tr>
+<tr>
+<td colspan="4">T9</td>
+<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">Questionário Respondido</td>
+</tr>
+<tr>
+<td colspan="4">T10</td>
+<td colspan="4" >Realização da entrevista</td>
+<td colspan="4">Questionário Respondido</td>
 </tr>
 </table>
 
@@ -131,7 +178,6 @@
 </tr>
 
 <tr>
-<td colspan="6">Matheus</td>
 <td colspan="1">T1 e T2</td>
 <td colspan="1">T3 e T4</td>
 <td colspan="1"></td>
@@ -201,4 +247,4 @@
 <td colspan="1"></td>
 <td colspan="1"></td>
 </tr>
-</table
+</table>
