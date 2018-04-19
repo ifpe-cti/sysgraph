@@ -6,9 +6,9 @@ Aplicação desenvolvida afim de gerenciar e facilitar vendas na gráfica SB, do
 
 ## Soluções existentes
 
-https://gohiper.com.br/ A aplicação é paga.
-https://www.programanex.com.br/ A Desenvolvedora não se compromete a manter ativa qualquer ferramenta, funcionalidade ou serviço que já tenha sido oferecido no passado, independentemente de ter sido oferecido de forma onerosa ou gratuita. Além disso, há serviços de assinatura para funcionalidades específicas.
-https://www.tagsoft.com.br/ A aplicação é paga.
+[GoHiper](https://gohiper.com.br/) A aplicação é paga.
+[ProgramaNex](https://www.programanex.com.br/) A Desenvolvedora não se compromete a manter ativa qualquer ferramenta, funcionalidade ou serviço que já tenha sido oferecido no passado, independentemente de ter sido oferecido de forma onerosa ou gratuita. Além disso, há serviços de assinatura para funcionalidades específicas.
+[TagSoft](https://www.tagsoft.com.br/) A aplicação é paga.
 
 Além disso, necessidades específicas como anexar arquivos do corel draw nas vendas não são suportadas por estes sistemas.
 
@@ -36,7 +36,7 @@ O sistema será desenvolvido em java (JDK 1.8) e html, com adicional uso das bib
 ## Licença
 MIT License
 
-Copyright (c) 2018 Vinícius H., Matheus Dionísio, Pedro Barros.
+Copyright (c) 2018 - SysGraph - Vinícius H., Matheus Dionísio, Pedro Barros e Tiago Eduardo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
