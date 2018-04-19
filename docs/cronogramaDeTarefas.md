@@ -108,8 +108,8 @@
   
 <tr>
 <td colspan="6">Todos</td>
-<td colspan="1"> X </td>
-<td colspan="1"> X </td>
+<td colspan="1"> X</td>
+<td colspan="1"> X</td>
 <td colspan="1"></td>
 <td colspan="1"></td>
 <td colspan="1"></td>
