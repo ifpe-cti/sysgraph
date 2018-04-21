@@ -68,10 +68,8 @@
 <td colspan="4">T12</td>
 <td colspan="4" >Deletar Funcionário</td>
 <td colspan="4">Também tem relação com a consulta</td>
-<td colspan="4" ></td>
-<td colspan="4"></td>
-</tr>
-
+<td colspan="4" >Analisar ferramenta de testes</td>
+<td colspan="4">Ver a ferramenta que mais vai se adaptar aos interesses do cliente</td>
 </table>
 
 <table>
