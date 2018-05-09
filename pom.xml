@@ -9,7 +9,6 @@
 <description>Sistema de gerenciamento de vendas, funcionários e do financeiro da empresa SB Gráfica</description>
   <url>http://maven.apache.org</url>
   <dependencies>
-    
 <!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependency>
     <groupId>junit</groupId>
@@ -32,6 +31,43 @@
     <version>8.0.11</version>
 </dependency>
 
+<!-- https://mvnrepository.com/artifact/javax.faces/jsf-api -->
+<dependency>
+    <groupId>javax.faces</groupId>
+    <artifactId>jsf-api</artifactId>
+    <version>2.1</version>
+    <scope>provided</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.eclipse.persistence/org.eclipse.persistence.jpa.jpql -->
+<dependency>
+    <groupId>org.eclipse.persistence</groupId>
+    <artifactId>org.eclipse.persistence.jpa.jpql</artifactId>
+    <version>2.7.1</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.eclipse.persistence/eclipselink -->
+<dependency>
+    <groupId>org.eclipse.persistence</groupId>
+    <artifactId>eclipselink</artifactId>
+    <version>2.7.1</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/javax.faces/jsf-api -->
+<dependency>
+    <groupId>javax.faces</groupId>
+    <artifactId>jsf-api</artifactId>
+    <version>2.1</version>
+    <scope>provided</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.eclipse.persistence/javax.persistence -->
+<dependency>
+    <groupId>org.eclipse.persistence</groupId>
+    <artifactId>javax.persistence</artifactId>
+    <version>2.2.0</version>
+</dependency>
+
 <!-- https://mvnrepository.com/artifact/org.hibernate.javax.persistence/hibernate-jpa-2.1-api -->
 <dependency>
     <groupId>org.hibernate.javax.persistence</groupId>
@@ -39,9 +75,7 @@
     <version>1.0.2.Final</version>
 </dependency>
 
-
 </dependencies>
-
 <build>
         <plugins>
             <plugin>
@@ -54,5 +88,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
