@@ -24,7 +24,7 @@ Este aplicativo direciona-se aos funcionários da empresa SB Gráfica, com o ace
 A manutenção, tanto de correção de erros como desenvolvimento de novas funcionalidades, pode ser monetizada. A aplicação gera ganho de tempo e de planejamento da empresa, acarretando em ganho financeiro devido a melhor gestão, em longo prazo. 
 
 ## Ferramental utilizado
-O sistema será desenvolvido em java (JDK 1.8) e html, com adicional uso das bibliotecas: JSF 2.2, PrimeFaces 5.0, EclipseLink (JPA 2.1), do Apache TomCat como Container de Servlets Java e do framework Hibernate para conexão com o banco de dados MySql. Seu código será armazenado no GitLab. O Maven será utilizado como ferramenta de construção da aplicação, o JUnit, o TravisCI e o Selenium IDE para suporte aos testes e integração contínua.
+O sistema será desenvolvido em java (JDK 1.8) e html, com adicional uso das bibliotecas: JSF 2.2, PrimeFaces 5.0, EclipseLink (JPA 2.1), do Apache TomCat como Container de Servlets Java e do framework Hibernate para conexão com o banco de dados MySql. Seu código será armazenado no GitHub. O Maven será utilizado como ferramenta de construção da aplicação, o JUnit, o TravisCI e o Selenium IDE para suporte aos testes e integração contínua.
 
 ## Contribuidores
 
