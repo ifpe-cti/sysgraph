@@ -32,7 +32,6 @@ import javax.faces.bean.ManagedBean;
 public class ImagesView {
 
     private List<String> images;
-
     @PostConstruct
     public void init() {
         images = new ArrayList<String>();

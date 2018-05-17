@@ -51,7 +51,7 @@ public class FuncionarioController {
         
     }
     
-    public void inserir(){        
+    public void inserir(){
         this.repositorioFuncionario.inserir(this.funcionarioCadastro);
         this.funcionarioCadastro = new Funcionario();
         
