@@ -56,7 +56,6 @@
                             </p:commandButton>    
                         </p:column>
                     </p:dataTable>
-
                     <p:dialog id="dialVisualizaCliente" visible="false" modal="false"
                               resizable="false" widgetVar="widDialVisualizaCliente"
                               header="Dados do cliente">
@@ -79,7 +78,6 @@
                         </p:panelGrid>
                         <p:commandButton value="fechar" oncomplete="PF('widDialVisualizaCliente').hide()"/>
                     </p:dialog>
-
                     <p:dialog id="dialDeletaCliente" visible="false" modal="false"
                               resizable="false" widgetVar="widDialDeletaCliente"
                               header="Dados do cliente">
@@ -102,12 +100,9 @@
                         <p:commandButton value="Deseja mesmo deletar o cliente?" action="#{clienteController.deletar(clienteController.selectedCliente)}" oncomplete="PF('widDialDeletaCliente').hide()"
                                          update="@form"/>
                     </p:dialog>
-
                 </h:form>
-
                 <p:dialog id="dialCadCliente" visible="false" modal="false" resizable="false"
                           widgetVar="widDialCadCliente" header="Cadastrar Cliente">
-
                     <h:form id="formDialCadCliente">
                         <p:fieldset legend="Cadastrar cliente">
                             <p:panelGrid columns="3">                      
@@ -139,7 +134,6 @@
                     </h:form>
 
                 </p:dialog>
-
                 <p:dialog id="dialAlteraCliente" visible="false" modal="false" resizable="false"
                           widgetVar="widDialAlteraCliente" header="Alterar Cliente">
                     <h:form id="formDialAlteraCliente">
