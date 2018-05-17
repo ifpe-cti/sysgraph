@@ -21,16 +21,9 @@
     <welcome-file-list>
         <welcome-file>index.xhtml</welcome-file>
     </welcome-file-list>
-<<<<<<< HEAD
-    <context-param>
-	<param-name>primefaces.THEME</param-name>
-	<param-value>rocket</param-value>
-</context-param>
-=======
     XHTML
     <context-param>
         <param-name>primefaces.THEME</param-name>
         <param-value>ui-darkness</param-value>
     </context-param>
->>>>>>> f963947e80d863396319c69a64f136d4c27add2e
 </web-app>

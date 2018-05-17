@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/mavenproject1"/>
+<Context path="/sysgraph">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="sysgraph" password="ifpe" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/advocacia?zeroDateTimeBehavior=convertToNull" username="root"/>
+</Context>
