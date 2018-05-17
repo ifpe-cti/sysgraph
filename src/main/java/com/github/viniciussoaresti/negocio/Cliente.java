@@ -21,13 +21,12 @@ package com.github.viniciussoaresti.negocio;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-
 /**
  *
  * @author Vinícius Soares
  */
+@Entity
 public class Cliente {
 
     @Column(length = 50)
