@@ -28,9 +28,5 @@ public interface RepositorioGenerico <T, G> {
     public void alterar (T t);
     public T recuperar (G codigo);
     public void deletar (T t);
-    public List<T> recuperarTodos();
-    
-    
-    
-    
+    public List<T> recuperarTodos();    
 }
