@@ -23,7 +23,7 @@
     </welcome-file-list>
     XHTML
     <context-param>
-        <param-name>primefaces.THEME</param-name>
-        <param-value>ui-darkness</param-value>
-    </context-param>
+	<param-name>primefaces.THEME</param-name>
+	<param-value>rocket</param-value>
+</context-param>
 </web-app>
