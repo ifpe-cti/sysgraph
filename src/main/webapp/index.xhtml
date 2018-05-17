@@ -11,56 +11,32 @@
         <link rel="shortcut icon" href="https://raw.githubusercontent.com/ifpe-cti/sysgraph/master/docs/favicon(1).ico" type="image/x-icon"/>
         <link rel="icon" href="https://raw.githubusercontent.com/ifpe-cti/sysgraph/master/docs/favicon(1).ico" type="image/x-icon"/>
     </h:head>
-
     <h:body>
-                    
+        <p:growl id="gro" showDetail="true" showSummary="true"/>
         <p:layout fullPage="true">
 
             <p:layoutUnit id="top" position="north" size="130" >
                 <!-- topo-->
-            <center><h:graphicImage value = "/imagens/logo.png" width="20%"/></center>
-
+                <ui:include src="top.xhtml"/>
             </p:layoutUnit>
 
             <p:layoutUnit id="left" position="west"  resizable="false"  closable="false" collapsible="false" header="Menu"  size="265" >
                 <!-- esquerda com menu-->
-                <h:form>
-                    <p:menu>
-
-                        <p:menuitem value="Home" url="index.xhtml" icon="ui-icon-home"/>
-                        
-                        <p:menuitem value="Vendas" url="crudAdvogado.xhtml"/>
-
-                        <p:menuitem value="Produtos" url="crudCliente_1.xhtml"/>
-
-                        <p:menuitem value="Estoque" url="crudLei.xhtml"/>      
-
-                        <p:menuitem value="Funcionários" url="funcionario.xhtml"/>   
-
-                        <p:menuitem value="Clientes" url="crudLei.xhtml"/>      
-
-                        <p:menuitem value="Log do Sistema" url="log.xhtml"/>     
-
-                        <p:menuitem value="Relatórios Financeiros" url="mensal.xhtml"/>
-                        
-
-                    </p:menu>
-
-                </h:form>
+                <ui:include src="menu.xhtml"/>
             </p:layoutUnit>
 
             <p:layoutUnit id="center" position="center" header="Tela Inicial">
                 <!--centro-->
-                <p:imageSwitch effect="fade" widgetVar="imagens" slideshowAuto="true">
-                    <p:graphicImage value="/imagens/a.jpg" width="1000px" />
-                    <p:graphicImage value="/imagens/b.jpg" width="1000px" />
+                <p:imageSwitch effect="fade" widgetVar="imagens" slideshowAuto="true" style="left:0px; top: 0px">
+                    <p:graphicImage value="/imagens/a.jpg" width="650px" />
+                    <p:graphicImage value="/imagens/FOLDER.jpg" width="650px" />
+                    <p:graphicImage value="/imagens/b.jpg" width="650px" />
                 </p:imageSwitch>
 
             </p:layoutUnit>
             <p:layoutUnit id="sul" position="south" size="70" >
                 <!-- BAIXO-->
-                <h10> Software desenvolvido pela MVP Softwares ®</h10>
-                <h:graphicImage value = "/imagens/MVP.png" width="100px" style="float: right;"/>
+                <ui:include src="bottom.xhtml"/>
             </p:layoutUnit>
         </p:layout>
     </h:body>
