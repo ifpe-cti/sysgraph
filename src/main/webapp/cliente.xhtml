@@ -8,8 +8,8 @@
       xmlns:c="http://xmlns.jcp.org/jsp/jstl/core">
     <h:head>
         <title>Cliente</title>
-        <link rel="shortcut icon" href="https://raw.githubusercontent.com/ifpe-cti/sysgraph/master/docs/favicon(1).ico" type="image/x-icon"/>
-        <link rel="icon" href="https://raw.githubusercontent.com/ifpe-cti/sysgraph/master/docs/favicon(1).ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon"/>
+        <link rel="icon" href="imagens/favicon.ico" type="image/x-icon"/>
     </h:head>
     <h:body>  
         <p:growl id="gro" showDetail="true" showSummary="true"/>
@@ -57,7 +57,7 @@
                         </p:column>
                     </p:dataTable>
 
-                    <p:dialog id="dialVisualizaCliente" visible="false" modal="true"
+                    <p:dialog id="dialVisualizaCliente" visible="false" modal="false"
                               resizable="false" widgetVar="widDialVisualizaCliente"
                               header="Dados do cliente">
                         <p:panelGrid columns="2">
@@ -80,7 +80,7 @@
                         <p:commandButton value="fechar" oncomplete="PF('widDialVisualizaCliente').hide()"/>
                     </p:dialog>
 
-                    <p:dialog id="dialDeletaCliente" visible="false" modal="true"
+                    <p:dialog id="dialDeletaCliente" visible="false" modal="false"
                               resizable="false" widgetVar="widDialDeletaCliente"
                               header="Dados do cliente">
                         <p:panelGrid columns="2">
@@ -105,7 +105,7 @@
 
                 </h:form>
 
-                <p:dialog id="dialCadCliente" visible="false" modal="true" resizable="false"
+                <p:dialog id="dialCadCliente" visible="false" modal="false" resizable="false"
                           widgetVar="widDialCadCliente" header="Cadastrar Cliente">
 
                     <h:form id="formDialCadCliente">
@@ -140,7 +140,7 @@
 
                 </p:dialog>
 
-                <p:dialog id="dialAlteraCliente" visible="false" modal="true" resizable="false"
+                <p:dialog id="dialAlteraCliente" visible="false" modal="false" resizable="false"
                           widgetVar="widDialAlteraCliente" header="Alterar Cliente">
                     <h:form id="formDialAlteraCliente">
                         <p:fieldset legend="alterar cliente">

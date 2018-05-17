@@ -18,7 +18,8 @@ AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
 THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 package com.github.viniciussoaresti.conversores;
- /**
+
+/**
  *
  * @author Pedro Barros
  */
@@ -26,12 +27,12 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.PostConstruct;
 import javax.faces.bean.ManagedBean;
- 
+
 @ManagedBean
 public class ImagesView {
-     
+
     private List<String> images;
-     
+
     @PostConstruct
     public void init() {
         images = new ArrayList<String>();
@@ -39,7 +40,7 @@ public class ImagesView {
             images.add("imagens" + i + ".jpg");
         }
     }
- 
+
     public List<String> getImages() {
         return images;
     }
